@@ -1,2 +1,2 @@
-# code-challenge1
+# Code-challenge1
 ## Description
