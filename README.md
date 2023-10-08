@@ -8,8 +8,5 @@ I created functions to solve the following problems;
 ###
 -**Net Salary Calculator** This a program tasked with calculating an individual's __Net Salary__ by getting the inputs of basic salary and benefits. It also calculates the __Payee__(Tax), __NHIF__ and __NSSF__ deductions, __Gross__ and __Net__ Salary.
 #### Author And licence
-**Author**
-- Philip Wanjiku (GitHub: @philipmuhoro)
-**License:**
-This project is licensed under the [MIT License](LICENSE.md).
+
 
